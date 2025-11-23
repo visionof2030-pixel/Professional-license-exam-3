@@ -173,7 +173,7 @@ button:disabled {
 
 <div class="header-notice">
     <p class="notice-arabic"></p>
-    <p class="notice-english">This interactive test has been prepared to simulate the official Professional License Exam, providing immediate feedback for all answers. Prepared by: Fahad Alkhaldi</p>
+    <p class="notice-english">prepared by Teacher Fahad Alkhaldi</p>
 </div>
 
 <div class="container">
