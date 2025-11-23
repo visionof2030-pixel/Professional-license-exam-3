@@ -172,12 +172,12 @@ button:disabled {
 <body>
 
 <div class="header-notice">
-    <p class="notice-arabic">تم إعداد هذا الاختبار التفاعلي لمحاكاة الاختبار الرسمي للرخصة المهنية، ويقدم تغذية راجعة فورية لجميع الإجابات. إعداد: فهد الخالدي</p>
+    <p class="notice-arabic"></p>
     <p class="notice-english">This interactive test has been prepared to simulate the official Professional License Exam, providing immediate feedback for all answers. Prepared by: Fahad Alkhaldi</p>
 </div>
 
 <div class="container">
-    <h2>اختبار الرخصة المهنية – محاكاة شاملة</h2>
+    <h2>تم إعداد هذا الاختبار التفاعلي لمحاكاة الاختبار الرسمي للرخصة المهنية، ويقدم تغذية راجعة فورية لجميع الإجابات. إعداد: فهد الخالدي</h2>
     
     <div class="progress-bar">
         <div class="progress" id="progress"></div>
