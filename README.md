@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
@@ -173,7 +173,7 @@ button:disabled {
 
 <div class="header-notice">
     <p class="notice-arabic"></p>
-    <p class="notice-english">prepared by Teacher Fahad Alkhaldi</p>
+    <p class="notice-english">prepared by Teacher Fahad Alkhaldi                                   </p>
 </div>
 
 <div class="container">
